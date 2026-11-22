@@ -1,0 +1,12 @@
+[submodule "embedkit"]
+	path = embedkit
+	url = https://github.com/Krzysiek-Mistrz/embedkit.git
+[submodule "third_party/CMSIS_6"]
+	path = third_party/CMSIS_6
+	url = https://github.com/ARM-software/CMSIS_6.git
+[submodule "third_party/cmsis_device_f4"]
+	path = third_party/cmsis_device_f4
+	url = https://github.com/STMicroelectronics/cmsis_device_f4.git
+[submodule "third_party/FreeRTOS-Kernel"]
+	path = third_party/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
